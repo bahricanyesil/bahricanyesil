@@ -46,7 +46,6 @@ Contact with me via these platforms!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahricanyesil&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
 </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bahricanyesil&count_private=true&show_icons=true&theme=dark&locale=en" alt="bahricanyesil" /></p>
 
 <br />
 <br />
