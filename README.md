@@ -2,6 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bahricanyesil?style=social)](https://github.com/bahricanyesil?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 ## Student, IT head, Product Manager 
 
@@ -45,6 +46,8 @@ Contact with me via these platforms!
   <img src="https://github-readme-stats.vercel.app/api?username=bahricanyesil&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahricanyesil&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
 </p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bahricanyesil&count_private=true&show_icons=true&theme=dark&locale=en" alt="bahricanyesil" /></p>
 
 <br />
 <br />
