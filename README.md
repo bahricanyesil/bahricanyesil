@@ -1,7 +1,7 @@
 # Hi there, I'm Bahrican Yesil 👋
 [![GitHub followers](https://img.shields.io/github/followers/bahricanyesil?style=social)](https://github.com/bahricanyesil?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
+![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 ## Student, IT head, Product Manager 
