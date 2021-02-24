@@ -50,7 +50,7 @@ Contact with me via these platforms!
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" /></p>
 
 <br />
 <br />
