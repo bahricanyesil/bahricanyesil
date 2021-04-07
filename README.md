@@ -9,10 +9,10 @@
 - 🏢 I'm also working as a front-end and back-end develoepr at Yesil Science. 🌐[Yesil Science](https://www.yesilscience.com)
 - 👨‍💻 I'm a computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
-- **Projects:**
+- **Projects:**<br/>
   *Hobbycorn - Private Repo, [Published on Stores](http://onelink.to/kfq5mm)<br/>
   *Eye Rest Reminder - Private Repo, [Published on Stores](http://onelink.to/mhpcya)<br/>
-  *[Node.js Starter Template/Boilerplate](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
+  *Node.js Starter Template/Boilerplate - [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
 
 <br />
 
