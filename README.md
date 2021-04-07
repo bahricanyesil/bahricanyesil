@@ -10,9 +10,9 @@
 - 👨‍💻 I'm a computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
 - **Projects:**
-  *Hobbycorn - Private Repo, Published on Stores
-  *Eye Rest Reminder - Private Repo, Published on Stores
-  *[Node.js Starter Template/Boilerplate](https://github.com/bahricanyesil/nodejs-starter-template)
+  *Hobbycorn - Private Repo, [Published on Stores](http://onelink.to/kfq5mm)<br/>
+  *Eye Rest Reminder - Private Repo, [Published on Stores](http://onelink.to/mhpcya)<br/>
+  *[Node.js Starter Template/Boilerplate](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
 
 <br />
 
