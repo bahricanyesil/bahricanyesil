@@ -3,12 +3,16 @@
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
 
-## Student, IT head, Product Manager 
+## Student, Front-end & Back-end Developer, IT head
 
 - 📱  I'm currently the IT head of Hobbycorn that is a mobile application. 🌐[Hobbycorn](https://hobbycorn.com)
-- 🏢 I'm also working as a product manager at Yesil Science. 🌐[Yesil Science](https://www.yesilscience.com)
+- 🏢 I'm also working as a front-end and back-end develoepr at Yesil Science. 🌐[Yesil Science](https://www.yesilscience.com)
 - 👨‍💻 I'm a computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
+- **Projects:**
+  *Hobbycorn - Private Repo, Published on Stores
+  *Eye Rest Reminder - Private Repo, Published on Stores
+  *[Node.js Starter Template/Boilerplate](https://github.com/bahricanyesil/nodejs-starter-template)
 
 <br />
 
