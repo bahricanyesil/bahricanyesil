@@ -5,10 +5,10 @@
 
 ## Student, Front-end & Back-end Developer, IT head
 
-- 📱  I'm currently the IT head of Hobbycorn that is a mobile application. 🌐[Hobbycorn](https://hobbycorn.com)
-- 🏢 I'm also working as a front-end and back-end develoepr at Yesil Science. 🌐[Yesil Science](https://www.yesilscience.com)
+- 🏢 I'm currently working as a Flutter & Node.js Developer @sambapos
 - 👨‍💻 I'm a computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
+- 📱  I am open to freelance project offers.
 - **Projects:**<br/>
   *Hobbycorn - Private Repo, [Published on Stores](http://onelink.to/kfq5mm)<br/>
   *Eye Rest Reminder - Private Repo, [Published on Stores](http://onelink.to/mhpcya)<br/>
