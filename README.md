@@ -5,7 +5,7 @@
 
 ## Student, Front-end & Back-end Developer, IT head
 
-- 🏢 I'm currently working as a Flutter & Node.js Developer @sambapos
+- 🏢 I'm currently working as a Flutter & Node.js Developer @bstevr and @sambapos
 - 👨‍💻 I'm a computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
 - 📱  I am open to freelance project offers.
