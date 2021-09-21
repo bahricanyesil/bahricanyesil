@@ -10,9 +10,15 @@
 - 🚀 I love learning and putting what I learned into practice.
 - 📱  I am open to freelance project offers.
 - **Projects:**<br/>
-  *Hobbycorn - Private Repo, [Published on Stores](http://onelink.to/kfq5mm)<br/>
-  *Eye Rest Reminder - Private Repo, [Published on Stores](http://onelink.to/mhpcya)<br/>
-  *Node.js Starter Template/Boilerplate - [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
+  *Hobbycorn - Flutter & Node.js & AWS (S3-EB-SES) & MongoDB - Private Repo, @yesilscience [Published on Stores](http://onelink.to/kfq5mm)<br/>
+  *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores](http://onelink.to/mhpcya)<br/>
+  *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
+  *7shifts Admin Panel and API - Fluttter & Node.js & AWS Postgresql - Private Repo, @sambapos
+  *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience
+  *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos
+  *Kds API - Node.js & AWS dynamodb - Private Repo, @sambapos
+  *WeTrack (Weather tracker) mobile app - Flutter - Private Repo, Personal Project
+  *WeTrack (Weather tracker) API - .NET - Private Repo, Personal Project
 
 <br />
 
