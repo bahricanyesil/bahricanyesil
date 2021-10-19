@@ -15,6 +15,7 @@
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
   *7shifts Admin Panel and API - Fluttter & Node.js & AWS Postgresql - Private Repo, @sambapos<br/>
   *Crew Social Mobile App - Flutter - Private Repo, @bstevr<br/>
+  *Jetrik API - Node.js & Azure Cosmos - Private Repo, @sambapos<br/>
   *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience<br/>
   *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos<br/>
   *Kds API - Node.js & AWS dynamodb - Private Repo, @sambapos<br/>
