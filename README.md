@@ -3,18 +3,20 @@
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
 
-## Student, Front-end & Back-end Developer, IT head
+## Front-end & Back-end Developer
 
 - 🏢 I'm currently working as a Flutter & Node.js Developer @bstevr and @sambapos
-- 👨‍💻 I'm a computer engineering student at Bogazici University.
+- 👨‍💻 I'm a 3rd year computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
 - 📱  I am open to freelance project offers.
 - **Projects:**<br/>
-  *Hobbycorn - Flutter & Node.js & AWS (S3-EB-SES) & MongoDB - Private Repo, @yesilscience [Published on Stores](http://onelink.to/kfq5mm)<br/>
-  *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores](http://onelink.to/mhpcya)<br/>
+  *Flutter Animated Web Login Package - Personal Project - Private Repo, [will be published on](https://pub.dev/)<br/>
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
+  *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores](http://onelink.to/mhpcya)<br/>
+  *Flutter Starter Template - Personal Project, Private Repo for now.<br/>
   *7shifts Admin Panel and API - Fluttter & Node.js & AWS Postgresql - Private Repo, @sambapos<br/>
   *Crew Social Mobile App - Flutter - Private Repo, @bstevr<br/>
+  *Hobbycorn - Flutter & Node.js & AWS (S3-EB-SES) & MongoDB - Private Repo, @yesilscience [Published on Stores](http://onelink.to/kfq5mm)<br/>
   *Jetrik API - Node.js & Azure Cosmos - Private Repo, @sambapos<br/>
   *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience<br/>
   *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos<br/>
