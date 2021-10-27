@@ -23,7 +23,7 @@
   *WeTrack (Weather tracker) mobile app - Flutter - Private Repo, Personal Project<br/>
   *WeTrack (Weather tracker) API - .NET - Private Repo, Personal Project<br/>
 
-<br />
+<br/>
 
 Contact with me via these platforms! 
 
@@ -32,7 +32,7 @@ Contact with me via these platforms!
   <a href="https://www.instagram.com/bahricanyesil/" target="_blank" rel="nofollow"><img alt="Bahrican's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/bahricanyesil/" target="_blank" rel="nofollow"><img alt="Bahrican's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<br />
+<br/>
 
 ---
 
@@ -46,7 +46,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
 
-<br />
+<br/>
 
 ---
 
@@ -58,8 +58,10 @@ Contact with me via these platforms!
 </p>
 
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" />
-<br />
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" />
+</p>
+<br/>
 
 ---
 
