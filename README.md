@@ -33,7 +33,6 @@ Contact with me via these platforms!
   <a href="https://twitter.com/bahricanyesil/" target="_blank" rel="nofollow"><img alt="Bahrican's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <br />
-<br />
 
 ---
 
@@ -48,7 +47,6 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
 
 <br />
-<br />
 
 ---
 
@@ -57,10 +55,10 @@ Contact with me via these platforms!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bahricanyesil&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahricanyesil&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
+  <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahricanyesil&theme=dark" alt="bahricanyesil" />
 </p>
 
-<br />
 <br />
 
 ---
