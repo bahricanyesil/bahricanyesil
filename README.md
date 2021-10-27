@@ -1,7 +1,7 @@
 # Hi there, I'm Bahrican Yesil 👋
 [![GitHub followers](https://img.shields.io/github/followers/bahricanyesil?style=social)](https://github.com/bahricanyesil?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
-https://badges.pufler.dev/commits/monthly/puf17640
+![Total Commits](https://badges.pufler.dev/commits/all/bahricanyesil)
 
 ## Front-end & Back-end Developer
 
