@@ -1,7 +1,7 @@
 # Hi there, I'm Bahrican Yesil 👋
 [![GitHub followers](https://img.shields.io/github/followers/bahricanyesil?style=social)](https://github.com/bahricanyesil?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bahricanyesil.visitor-badge)](https://GitHub.com/bahricanyesil/StrapDown.js/stargazers/)
+https://badges.pufler.dev/commits/monthly/puf17640
 
 ## Front-end & Back-end Developer
 
