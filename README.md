@@ -9,7 +9,7 @@
 - 🚀 I love learning and putting what I learned into practice.
 - 📱  I am open to freelance project offers.
 - **Projects:**<br/>
-  *Flutter Animated Web Login Package - Personal Project - Private Repo, [will be published on](https://pub.dev/)<br/>
+  *Flutter Animated Login Package - Personal Project - [Published on pub.dev](https://pub.dev/packages/animated_login) - [Public GitHub Repo](https://github.com/bahricanyesil/flutter-animated-login)<br/>
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
   *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores](http://onelink.to/mhpcya)<br/>
   *Flutter Starter Template - Personal Project, Private Repo for now.<br/>
