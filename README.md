@@ -20,8 +20,8 @@
   *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience<br/>
   *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos<br/>
   *Kds API - Node.js & AWS dynamodb - Private Repo, @sambapos<br/>
-  *WeTrack (Weather tracker) mobile app - Flutter - Private Repo, Personal Project<br/>
-  *WeTrack (Weather tracker) API - .NET - Private Repo, Personal Project<br/>
+  *WeTrack (Weather tracker) mobile app - Flutter - Public Repo, Personal Project<br/>
+  *WeTrack (Weather tracker) API - .NET - Public Repo, Personal Project<br/>
 
 <br/>
 
