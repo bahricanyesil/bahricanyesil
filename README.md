@@ -4,7 +4,7 @@
 
 ## Front-end & Back-end Developer
 
-- 🏢 I'm currently working as a Flutter & Node.js Developer @bstevr and @sambapos
+- 🏢 I'm coding with and have work experiences more than 2 years on (especially) Flutter & Node.js. My current focus is on mobile and web development with Flutter.
 - 👨‍💻 I'm a 3rd year computer engineering student at Bogazici University.
 - 🚀 I love learning and putting what I learned into practice.
 - 📱  I am open to freelance project offers.
