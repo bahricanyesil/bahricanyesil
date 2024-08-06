@@ -16,6 +16,9 @@ I’m a computer engineer specializing in mobile app and back-end development, w
   *Flutter Animated Login Package - Personal Project - [Published on pub.dev](https://pub.dev/packages/animated_login) - [Public GitHub Repo](https://github.com/bahricanyesil/flutter-animated-login)<br/>
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
   *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores but currently discontinued]
+  *Smartive - Blockchain, React, Solidity - Graduation Project, [Deployed](https://cmpe491-smartive.vercel.app/) - [Public GitHub Repo](https://github.com/bahricanyesil/cmpe491-smartive)<br/>
+  *LEST - Group Project, [Public GitHub Repo](https://github.com/bahricanyesil/lest)
+  *Learnify - Group Project [Public GitHub Repo](https://github.com/bounswe/bounswe2022group2)
   *Flutter Starter Template - Personal Project, Private Repo for now.<br/>
   *7shifts Admin Panel and API - Flutter & Node.js & AWS Postgresql - Private Repo, @sambapos<br/>
   *Crew Social Mobile App - Flutter - Private Repo, @bstevr<br/>
@@ -24,6 +27,7 @@ I’m a computer engineer specializing in mobile app and back-end development, w
   *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience<br/>
   *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos<br/>
   *Kds API - Node.js & AWS dynamodb - Private Repo, @sambapos<br/>
+  *Gamified To-Do App - Flutter - [Public GitHub Repo](https://github.com/bahricanyesil/gamified-todo-internship)
   *WeTrack (Weather tracker) mobile app - Flutter - Public Repo, Personal Project<br/>
   *WeTrack (Weather tracker) API - .NET - Public Repo, Personal Project<br/>
 
