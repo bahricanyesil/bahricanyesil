@@ -5,7 +5,7 @@
 ## Computer Engineer with Expertise in Mobile App and Back-end Development
 Welcome there,
 
-I’m a computer engineer specializing in mobile app and back-end development, with a focus on Flutter, Node.js, and Go technologies. With around 5 years of experience in Flutter, I’ve collaborated with several international companies, contributing to diverse and dynamic teams.
+I’m a computer engineer specializing in mobile app and back-end development, with a focus on Flutter and Node.js technologies. With around 5 years of experience in Flutter, I’ve collaborated with several international companies, contributing to diverse and dynamic teams.
 
 - 🏢 Experienced in Flutter & Node.js: With around 5 years of experience, I currently focus on developing mobile, web, and desktop apps using Flutter.
 - 👨‍💻 Graduated with Honors: I graduated as a Computer Engineer from Bogazici University, ranking 4th in my class with a GPA of 3.84.
