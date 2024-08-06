@@ -15,10 +15,10 @@ I’m a computer engineer specializing in mobile app and back-end development, w
 - **Projects:**<br/>
   *Flutter Animated Login Package - Personal Project - [Published on pub.dev](https://pub.dev/packages/animated_login) - [Public GitHub Repo](https://github.com/bahricanyesil/flutter-animated-login)<br/>
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
-  *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores but currently discontinued]
+  *Eye Rest Reminder - Flutter - Private Repo, Personal Project, [Published on Stores but currently discontinued]<br/>
   *Smartive - Blockchain, React, Solidity - Graduation Project, [Deployed](https://cmpe491-smartive.vercel.app/) - [Public GitHub Repo](https://github.com/bahricanyesil/cmpe491-smartive)<br/>
-  *LEST - Group Project, [Public GitHub Repo](https://github.com/bahricanyesil/lest)
-  *Learnify - Group Project [Public GitHub Repo](https://github.com/bounswe/bounswe2022group2)
+  *LEST - Group Project, [Public GitHub Repo](https://github.com/bahricanyesil/lest)<br/>
+  *Learnify - Group Project [Public GitHub Repo](https://github.com/bounswe/bounswe2022group2)<br/>
   *Flutter Starter Template - Personal Project, Private Repo for now.<br/>
   *7shifts Admin Panel and API - Flutter & Node.js & AWS Postgresql - Private Repo, @sambapos<br/>
   *Crew Social Mobile App - Flutter - Private Repo, @bstevr<br/>
