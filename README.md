@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bahricanyesil?style=social)](https://github.com/bahricanyesil?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/bahricanyesil?style=social)
 
-## Computer Engineer, Mobile App Developer, Back-end Developer
+## Computer Engineer focused on Mobile App and Back-end Development
 Welcome there,
 
 I’m a computer engineer who focuses on mobile app and back-end development. I am currently working on Flutter, Node.js, and Go technologies. I have ~5 years of experience in Flutter and have worked on several international projects with great teams.
