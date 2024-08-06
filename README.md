@@ -5,13 +5,13 @@
 ## Computer Engineer focused on Mobile App and Back-end Development
 Welcome there,
 
-I’m a computer engineer who focuses on mobile app and back-end development. I am currently working on Flutter, Node.js, and Go technologies. I have ~5 years of experience in Flutter and have worked on several international projects with great teams.
+I’m a computer engineer who focuses on mobile app and back-end development. I am currently working on Flutter, Node.js, and Go technologies. I have ~5 years of experience in Flutter and have worked on several international companies with great teams.
 
-- 🏢 I'm coding with and have work experience ~5 years on (especially) Flutter & Node.js. I am currently focused on mobile, web, and desktop app development with Flutter.
+- 🏢 I have work experience ~5 years on Flutter & Node.js. I am currently more focused on developing mobile, web, and desktop apps with Flutter.
 - 👨‍💻 I graduated as a computer engineer from Bogazici University as 4th with a 3.84 GPA and high honors.
 - 🏆 My graduation project with my teammates on smart contracts, and blockchain has won a special award. 
-- 🚀 I love learning and putting what I learned into practice. My teammates say that I have a fast-learner and a fast-doer personality.
-- 📱  I am open to a new job or freelance project offers.
+- 🚀 I love learning and putting what I learned into practice. My teammates say that I am a fast learner and a fast-doer personality.
+- 📱  I am open to remote new job offers and freelance projects.
 - **Projects:**<br/>
   *Flutter Animated Login Package - Personal Project - [Published on pub.dev](https://pub.dev/packages/animated_login) - [Public GitHub Repo](https://github.com/bahricanyesil/flutter-animated-login)<br/>
   *Node.js Starter Template/Boilerplate - Personal Project, [Public GitHub Repo](https://github.com/bahricanyesil/nodejs-starter-template)<br/>
