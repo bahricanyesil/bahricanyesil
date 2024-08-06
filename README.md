@@ -22,7 +22,7 @@ I’m a computer engineer specializing in mobile app and back-end development, w
   *Flutter Starter Template - Personal Project, Private Repo for now.<br/>
   *7shifts Admin Panel and API - Flutter & Node.js & AWS Postgresql - Private Repo, @sambapos<br/>
   *Crew Social Mobile App - Flutter - Private Repo, @bstevr<br/>
-  *Hobbycorn - Flutter & Node.js & AWS (S3-EB-SES) & MongoDB - Private Repo, @yesilscience [Published on Stores](http://onelink.to/kfq5mm)<br/>
+  *Hobbycorn - Flutter & Node.js & AWS (S3-EB-SES) & MongoDB - Private Repo, @hobbycorn [Published on Stores but currently discontinued]<br/>
   *Jetrik API - Node.js & Azure Cosmos - Private Repo, @sambapos<br/>
   *Yesil Health Admin Panel - Flutter - Private Repo, @yesilscience<br/>
   *Reporting X (Mobile+Web) - Flutter - Private Repo, @sambapos<br/>
