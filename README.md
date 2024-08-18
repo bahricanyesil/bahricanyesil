@@ -8,7 +8,7 @@ Welcome there,
 I’m a computer engineer specializing in mobile app and back-end development, with a focus on Flutter and Node.js technologies. With around 5 years of experience in Flutter, I’ve collaborated with several international companies, contributing to diverse and dynamic teams.
 
 - 🏢 Experienced in Flutter & Node.js: With around 5 years of experience, I currently focus on developing mobile, web, and desktop apps using Flutter.
-- 👨‍💻 Graduated with Honors: I graduated as a Computer Engineer from Bogazici University, ranking 4th in my class with a GPA of 3.84.
+- 👨‍💻 Graduated with High Honors: I graduated as a Computer Engineer from Bogazici University, ranking 4th in my class with a GPA of 3.84.
 - 🏆 Award-Winning Project: My graduation project, focused on smart contracts and blockchain, received a special award.
 - 🚀 Passionate and Fast Learner: I am enthusiastic about learning and applying new knowledge. My teammates recognize me as a fast learner and a proactive doer.
 - 📱 Open to Opportunities: I am open to remote job offers and freelance projects.
